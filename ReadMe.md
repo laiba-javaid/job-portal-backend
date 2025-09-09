@@ -1,6 +1,6 @@
 # Job Portal Backend (Django)
 >This repository contains the backend API for a Job Portal application, built using **Django** and **Django REST Framework**. It provides distinct functionalities for job seekers, companies, and platform administrators. This backend supports data management, authentication, and API endpoints for job listings, applications, and user profiles.  
-`Frontend (React)` 👉 [Job Portal Frontend](https://github.com/sravan-kumar-ta/Job-portal-React.git)
+`Frontend (React)` 👉 [Job Portal Frontend](https://github.com/laiba-javaid/Job-portal-frontend.git)
 
 
 ## Features
